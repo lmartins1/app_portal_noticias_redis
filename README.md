@@ -8,3 +8,5 @@ Simples portal de notícia para praticar a utilização do Redis (armazenamento 
 ![1](https://user-images.githubusercontent.com/114930799/205116489-524efa08-a768-4bbe-8aa8-f67e7972a97a.PNG)
 
 ![2](https://user-images.githubusercontent.com/114930799/205116495-f7bd1c90-6ac8-4974-a884-db29ea6125db.PNG)
+
+![3](https://user-images.githubusercontent.com/114930799/205117797-ddbc6c1c-781b-4817-8a66-02ac63684ebb.PNG)
